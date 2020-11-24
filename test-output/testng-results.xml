@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4224" started-at="2020-10-22T09:57:47Z" finished-at="2020-10-22T09:57:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4224" started-at="2020-10-22T09:57:47Z" finished-at="2020-10-22T09:57:51Z">
+      <class name="qaGirish.RestAssuredPractice.DyanmicJson">
+        <test-method status="PASS" signature="addBook(java.lang.String, java.lang.String)[pri:0, instance:qaGirish.RestAssuredPractice.DyanmicJson@179caec]" name="addBook" duration-ms="3779" started-at="2020-10-22T09:57:47Z" data-provider="BooksData" finished-at="2020-10-22T09:57:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcdefgh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234233]]>
+              </value>
+            </param>
+          </params>
+        </test-method> <!-- addBook -->
+        <test-method status="PASS" signature="addBook(java.lang.String, java.lang.String)[pri:0, instance:qaGirish.RestAssuredPractice.DyanmicJson@179caec]" name="addBook" duration-ms="197" started-at="2020-10-22T09:57:50Z" data-provider="BooksData" finished-at="2020-10-22T09:57:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[efghigjk]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[567823325]]>
+              </value>
+            </param>
+          </params>
+        </test-method> <!-- addBook -->
+        <test-method status="PASS" signature="addBook(java.lang.String, java.lang.String)[pri:0, instance:qaGirish.RestAssuredPractice.DyanmicJson@179caec]" name="addBook" duration-ms="208" started-at="2020-10-22T09:57:51Z" data-provider="BooksData" finished-at="2020-10-22T09:57:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ijkldre]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[91014333]]>
+              </value>
+            </param>
+          </params>
+        </test-method> <!-- addBook -->
+      </class> <!-- qaGirish.RestAssuredPractice.DyanmicJson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
